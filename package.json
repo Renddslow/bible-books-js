@@ -1,0 +1,13 @@
+{
+  "name": "bible-books",
+  "version": "1.0.0",
+  "description": "Bible Books contains the full list of books of the Bible and methods to get them.",
+  "main": "index.js",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "dot-prop": "^4.2.0",
+    "sort-on": "^3.0.0"
+  },
+  "author": "Matt McElwee <mubatt@wyopub.com>",
+  "repository": "https://github.com/Renddslow/bible-books-js.git"
+}

@@ -1,0 +1,904 @@
+{
+  "GEN": {
+    "titles": {
+      "english": "Genesis",
+      "hebrew": {
+        "transliteration": "Bereshit",
+        "meaning": "in the beginning"
+      }
+    },
+    "order": {
+      "protestant": {
+        "global": 1,
+        "section": {
+          "title": "Pentateuch",
+          "sequence": 1
+        }
+      },
+      "hebrew": {
+        "global": 1,
+        "section": {
+          "title": "Torah",
+          "sequence": 1
+        }
+      }
+    }
+  },
+  "EXO": {
+    "titles": {
+      "english": "Exodus",
+      "hebrew": {
+        "transliteration": "Shemot",
+        "meaning": "names"
+      }
+    },
+    "order": {
+      "protestant": {
+        "global": 2,
+        "section": {
+          "title": "Pentateuch",
+          "sequence": 2
+        }
+      },
+      "hebrew": {
+        "global": 2,
+        "section": {
+          "title": "Torah",
+          "sequence": 2
+        }
+      }
+    }
+  },
+  "LEV": {
+    "titles": {
+      "english": "Leviticus",
+      "hebrew": {
+        "transliteration": "Wayiqra",
+        "meaning": "and He called"
+      }
+    },
+    "order": {
+      "protestant": {
+        "global": 3,
+        "section": {
+          "title": "Pentateuch",
+          "sequence": 3
+        }
+      },
+      "hebrew": {
+        "global": 3,
+        "section": {
+          "title": "Torah",
+          "sequence": 3
+        }
+      }
+    }
+  },
+  "NUM": {
+    "titles": {
+      "english": "Numbers",
+      "hebrew": {
+        "transliteration": "Bemidbar",
+        "meaning": "in the wilderness"
+      }
+    },
+    "order": {
+      "protestant": {
+        "global": 4,
+        "section": {
+          "title": "Pentateuch",
+          "sequence": 4
+        }
+      },
+      "hebrew": {
+        "global": 4,
+        "section": {
+          "title": "Torah",
+          "sequence": 4
+        }
+      }
+    }
+  },
+  "DEU": {
+    "titles": {
+      "english": "Deuteronomy",
+      "hebrew": {
+        "transliteration": "Devarim",
+        "meaning": "the words"
+      }
+    },
+    "order": {
+      "protestant": {
+        "global": 5,
+        "section": {
+          "title": "Pentateuch",
+          "sequence": 5
+        }
+      },
+      "hebrew": {
+        "global": 5,
+        "section": {
+          "title": "Torah",
+          "sequence": 5
+        }
+      }
+    }
+  },
+  "JOS": {
+    "titles": {
+      "english": "Joshua",
+      "hebrew": {
+        "transliteration": "Yehoshua",
+        "meaning": "Joshua"
+      }
+    },
+    "order": {
+      "protestant": {
+        "global": 6,
+        "section": {
+          "title": "Historical",
+          "sequence": 1
+        }
+      },
+      "hebrew": {
+        "global": 6,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 1,
+          "subtitle": "Former"
+        }
+      }
+    }
+  },
+  "JDG": {
+    "titles": {
+      "english": "Judges"
+    },
+    "order": {
+      "protestant": {
+        "global": 7,
+        "section": {
+          "title": "Historical",
+          "sequence": 2
+        }
+      },
+      "hebrew": {
+        "global": 7,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 2,
+          "subtitle": "Former"
+        }
+      }
+    }
+  },
+  "RUT": {
+    "titles": {
+      "english": "Ruth"
+    },
+    "order": {
+      "protestant": {
+        "global": 8,
+        "section": {
+          "title": "Historical",
+          "sequence": 3
+        }
+      },
+      "hebrew": {
+        "global": 29,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 5,
+          "subtitle": "Five Megillot"
+        }
+      }
+    }
+  },
+  "1SA": {
+    "titles": {
+      "english": "1 Samuel"
+    },
+    "order": {
+      "protestant": {
+        "global": 9,
+        "section": {
+          "title": "Historical",
+          "sequence": 4
+        }
+      },
+      "hebrew": {
+        "global": 8,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 3,
+          "subtitle": "Former",
+          "joinedWith": "2SA"
+        }
+      }
+    }
+  },
+  "2SA": {
+    "titles": {
+      "english": "2 Samuel"
+    },
+    "order": {
+      "protestant": {
+        "global": 10,
+        "section": {
+          "title": "Historical",
+          "sequence": 5
+        }
+      },
+      "hebrew": {
+        "global": 8,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 3,
+          "subtitle": "Former",
+          "joinedWith": "1SA"
+        }
+      }
+    }
+  },
+  "1KI": {
+    "titles": {
+      "english": "1 Kings"
+    },
+    "order": {
+      "protestant": {
+        "global": 11,
+        "section": {
+          "title": "Historical",
+          "sequence": 6
+        }
+      },
+      "hebrew": {
+        "global": 9,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 4,
+          "subtitle": "Former",
+          "joinedWith": "1KI"
+        }
+      }
+    }
+  },
+  "2KI": {
+    "titles": {
+      "english": "2 Kings"
+    },
+    "order": {
+      "protestant": {
+        "global": 12,
+        "section": {
+          "title": "Historical",
+          "sequence": 7
+        }
+      },
+      "hebrew": {
+        "global": 9,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 4,
+          "subtitle": "Former",
+          "joinedWith": "2KI"
+        }
+      }
+    }
+  },
+  "1CH": {
+    "titles": {
+      "english": "1 Chronicles"
+    },
+    "order": {
+      "protestant": {
+        "global": 13,
+        "section": {
+          "title": "Historical",
+          "sequence": 8
+        }
+      },
+      "hebrew": {
+        "global": 35,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 11,
+          "subtitle": "Historical",
+          "joinedWith": "2CH"
+        }
+      }
+    }
+  },
+  "2CH": {
+    "titles": {
+      "english": "2 Chronicles"
+    },
+    "order": {
+      "protestant": {
+        "global": 14,
+        "section": {
+          "title": "Historical",
+          "sequence": 9
+        }
+      },
+      "hebrew": {
+        "global": 35,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 11,
+          "subtitle": "Historical",
+          "joinedWith": "1CH"
+        }
+      }
+    }
+  },
+  "EZR": {
+    "titles": {
+      "english": "Ezra"
+    },
+    "order": {
+      "protestant": {
+        "global": 15,
+        "section": {
+          "title": "Historical",
+          "sequence": 10
+        }
+      },
+      "hebrew": {
+        "global": 34,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 10,
+          "subtitle": "Historical",
+          "joinedWith": "NEH"
+        }
+      }
+    }
+  },
+  "NEH": {
+    "titles": {
+      "english": "Nehemiah"
+    },
+    "order": {
+      "protestant": {
+        "global": 16,
+        "section": {
+          "title": "Historical",
+          "sequence": 11
+        }
+      },
+      "hebrew": {
+        "global": 34,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 10,
+          "subtitle": "Historical",
+          "joinedWith": "EZR"
+        }
+      }
+    }
+  },
+  "EST": {
+    "titles": {
+      "english": "Esther"
+    },
+    "order": {
+      "protestant": {
+        "global": 17,
+        "section": {
+          "title": "Historical",
+          "sequence": 12
+        }
+      },
+      "hebrew": {
+        "global": 32,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 8,
+          "subtitle": "Five Megillot"
+        }
+      }
+    }
+  },
+  "JOB": {
+    "titles": {
+      "english": "Job"
+    },
+    "order": {
+      "protestant": {
+        "global": 18,
+        "section": {
+          "title": "Wisdom",
+          "sequence": 1
+        }
+      },
+      "hebrew": {
+        "global": 27,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 3,
+          "subtitle": "Poetic"
+        }
+      }
+    }
+  },
+  "PSA": {
+    "titles": {
+      "english": "Psalms"
+    },
+    "order": {
+      "protestant": {
+        "global": 19,
+        "section": {
+          "title": "Wisdom",
+          "sequence": 2
+        }
+      },
+      "hebrew": {
+        "global": 25,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 1,
+          "subtitle": "Poetic"
+        }
+      }
+    }
+  },
+  "PRO": {
+    "titles": {
+      "english": "Proverbs"
+    },
+    "order": {
+      "protestant": {
+        "global": 20,
+        "section": {
+          "title": "Wisdom",
+          "sequence": 3
+        }
+      },
+      "hebrew": {
+        "global": 26,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 2,
+          "subtitle": "Poetic"
+        }
+      }
+    }
+  },
+  "ECC": {
+    "titles": {
+      "english": "Ecclesiastes"
+    },
+    "order": {
+      "protestant": {
+        "global": 21,
+        "section": {
+          "title": "Wisdom",
+          "sequence": 4
+        }
+      },
+      "hebrew": {
+        "global": 31,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 7,
+          "subtitle": "Five Megillot"
+        }
+      }
+    }
+  },
+  "SNG": {
+    "titles": {
+      "english": "Song of Songs"
+    },
+    "order": {
+      "protestant": {
+        "global": 22,
+        "section": {
+          "title": "Wisdom",
+          "sequence": 5
+        }
+      },
+      "hebrew": {
+        "global": 28,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 4,
+          "subtitle": "Five Megillot"
+        }
+      }
+    }
+  },
+  "ISA": {
+    "titles": {
+      "english": "Isaiah"
+    },
+    "order": {
+      "protestant": {
+        "global": 23,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 1,
+          "subtitle": "Major prophets"
+        }
+      },
+      "hebrew": {
+        "global": 10,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 5,
+          "subtitle": "Latter"
+        }
+      }
+    }
+  },
+  "JER": {
+    "titles": {
+      "english": "Jeremiah"
+    },
+    "order": {
+      "protestant": {
+        "global": 24,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 2,
+          "subtitle": "Major prophets"
+        }
+      },
+      "hebrew": {
+        "global": 11,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 6,
+          "subtitle": "Latter"
+        }
+      }
+    }
+  },
+  "LAM": {
+    "titles": {
+      "english": "Lamentations"
+    },
+    "order": {
+      "protestant": {
+        "global": 25,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 3,
+          "subtitle": "Major prophets"
+        }
+      },
+      "hebrew": {
+        "global": 30,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 6,
+          "subtitle": "Five Megillot"
+        }
+      }
+    }
+  },
+  "EZK": {
+    "titles": {
+      "english": "Ezekiel"
+    },
+    "order": {
+      "protestant": {
+        "global": 26,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 4,
+          "subtitle": "Major prophets"
+        }
+      },
+      "hebrew": {
+        "global": 12,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 7,
+          "subtitle": "Latter"
+        }
+      }
+    }
+  },
+  "DAN": {
+    "titles": {
+      "english": "Daniel"
+    },
+    "order": {
+      "protestant": {
+        "global": 27,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 5,
+          "subtitle": "Major prophets"
+        }
+      },
+      "hebrew": {
+        "global": 33,
+        "section": {
+          "title": "Ketuvim",
+          "sequence": 9,
+          "subtitle": "Historical"
+        }
+      }
+    }
+  },
+  "HOS": {
+    "titles": {
+      "english": "Hosea"
+    },
+    "order": {
+      "protestant": {
+        "global": 28,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 6,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 13,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 8,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "JOL": {
+    "titles": {
+      "english": "Joel"
+    },
+    "order": {
+      "protestant": {
+        "global": 29,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 7,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 14,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 9,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "AMO": {
+    "titles": {
+      "english": "Amos"
+    },
+    "order": {
+      "protestant": {
+        "global": 30,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 8,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 15,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 10,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "OBA": {
+    "titles": {
+      "english": "Obadiah"
+    },
+    "order": {
+      "protestant": {
+        "global": 31,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 9,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 16,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 11,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "JON": {
+    "titles": {
+      "english": "Jonah"
+    },
+    "order": {
+      "protestant": {
+        "global": 32,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 10,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 17,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 12,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "MIC": {
+    "titles": {
+      "english": "Micah"
+    },
+    "order": {
+      "protestant": {
+        "global": 33,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 11,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 18,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 13,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "NAM": {
+    "titles": {
+      "english": "Nahum"
+    },
+    "order": {
+      "protestant": {
+        "global": 34,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 12,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 19,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 14,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "HAB": {
+    "titles": {
+      "english": "Habakkuk"
+    },
+    "order": {
+      "protestant": {
+        "global": 35,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 13,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 20,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 15,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "ZEP": {
+    "titles": {
+      "english": "Zephaniah"
+    },
+    "order": {
+      "protestant": {
+        "global": 36,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 14,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 21,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 16,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "HAG": {
+    "titles": {
+      "english": "Haggai"
+    },
+    "order": {
+      "protestant": {
+        "global": 37,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 15,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 22,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 17,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "ZEC": {
+    "titles": {
+      "english": "Zechariah"
+    },
+    "order": {
+      "protestant": {
+        "global": 38,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 16,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 23,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 18,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  },
+  "MAL": {
+    "titles": {
+      "english": "Malachi"
+    },
+    "order": {
+      "protestant": {
+        "global": 39,
+        "section": {
+          "title": "Prophetic",
+          "sequence": 17,
+          "subtitle": "Minor prophets"
+        }
+      },
+      "hebrew": {
+        "global": 24,
+        "section": {
+          "title": "Nevi'im",
+          "sequence": 19,
+          "subtitle": "Minor"
+        }
+      }
+    }
+  }
+}

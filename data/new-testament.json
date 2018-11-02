@@ -1,0 +1,326 @@
+{
+  "MAT": {
+    "titles": {
+      "english": "Matthew"
+    },
+    "order": {
+      "global": 1,
+      "section": {
+        "title": "Gospels",
+        "sequence": 1
+      }
+    }
+  },
+  "MRK": {
+    "titles": {
+      "english": "Mark"
+    },
+    "order": {
+      "global": 2,
+      "section": {
+        "title": "Gospels",
+        "sequence": 2
+      }
+    }
+  },
+  "LUK": {
+    "titles": {
+      "english": "Luke"
+    },
+    "order": {
+      "global": 3,
+      "section": {
+        "title": "Gospels",
+        "sequence": 3
+      }
+    }
+  },
+  "JHN": {
+    "titles": {
+      "english": "John"
+    },
+    "order": {
+      "global": 4,
+      "section": {
+        "title": "Gospels",
+        "sequence": 4
+      }
+    }
+  },
+  "ACT": {
+    "titles": {
+      "english": "Acts"
+    },
+    "order": {
+      "global": 5,
+      "section": {
+        "title": "Acts",
+        "sequence": 1
+      }
+    }
+  },
+  "ROM": {
+    "titles": {
+      "english": "Romans"
+    },
+    "order": {
+      "global": 6,
+      "section": {
+        "title": "Epistles",
+        "sequence": 1
+      }
+    }
+  },
+  "1CO": {
+    "titles": {
+      "english": "1 Corinthians"
+    },
+    "order": {
+      "global": 7,
+      "section": {
+        "title": "Epistles",
+        "sequence": 2
+      }
+    }
+  },
+  "2CO": {
+    "titles": {
+      "english": "2 Corinthians"
+    },
+    "order": {
+      "global": 8,
+      "section": {
+        "title": "Epistles",
+        "sequence": 3
+      }
+    }
+  },
+  "GAL": {
+    "titles": {
+      "english": "Galatians"
+    },
+    "order": {
+      "global": 9,
+      "section": {
+        "title": "Epistles",
+        "sequence": 4
+      }
+    }
+  },
+  "EPH": {
+    "titles": {
+      "english": "Ephesians"
+    },
+    "order": {
+      "global": 10,
+      "section": {
+        "title": "Epistles",
+        "sequence": 5
+      }
+    }
+  },
+  "PHP": {
+    "titles": {
+      "english": "Philippians"
+    },
+    "order": {
+      "global": 11,
+      "section": {
+        "title": "Epistles",
+        "sequence": 6
+      }
+    }
+  },
+  "COL": {
+    "titles": {
+      "english": "Colossians"
+    },
+    "order": {
+      "global": 12,
+      "section": {
+        "title": "Epistles",
+        "sequence": 7
+      }
+    }
+  },
+  "1TH": {
+    "titles": {
+      "english": "1 Thessalonians"
+    },
+    "order": {
+      "global": 13,
+      "section": {
+        "title": "Epistles",
+        "sequence": 8
+      }
+    }
+  },
+  "2TH": {
+    "titles": {
+      "english": "2 Thessalonians"
+    },
+    "order": {
+      "global": 14,
+      "section": {
+        "title": "Epistles",
+        "sequence": 9
+      }
+    }
+  },
+  "1TI": {
+    "titles": {
+      "english": "2 Timothy"
+    },
+    "order": {
+      "global": 15,
+      "section": {
+        "title": "Epistles",
+        "sequence": 10
+      }
+    }
+  },
+  "2TI": {
+    "titles": {
+      "english": "2 Timothy"
+    },
+    "order": {
+      "global": 16,
+      "section": {
+        "title": "Epistles",
+        "sequence": 11
+      }
+    }
+  },
+  "TIT": {
+    "titles": {
+      "english": "Titus"
+    },
+    "order": {
+      "global": 17,
+      "section": {
+        "title": "Epistles",
+        "sequence": 12
+      }
+    }
+  },
+  "PHM": {
+    "titles": {
+      "english": "Philemon"
+    },
+    "order": {
+      "global": 18,
+      "section": {
+        "title": "Epistles",
+        "sequence": 13
+      }
+    }
+  },
+  "HEB": {
+    "titles": {
+      "english": "Hebrews"
+    },
+    "order": {
+      "global": 19,
+      "section": {
+        "title": "Epistles",
+        "sequence": 14
+      }
+    }
+  },
+  "JAS": {
+    "titles": {
+      "english": "James"
+    },
+    "order": {
+      "global": 20,
+      "section": {
+        "title": "Epistles",
+        "sequence": 15
+      }
+    }
+  },
+  "1PE": {
+    "titles": {
+      "english": "1 Peter"
+    },
+    "order": {
+      "global": 21,
+      "section": {
+        "title": "Epistles",
+        "sequence": 16
+      }
+    }
+  },
+  "2PE": {
+    "titles": {
+      "english": "2 Peter"
+    },
+    "order": {
+      "global": 22,
+      "section": {
+        "title": "Epistles",
+        "sequence": 17
+      }
+    }
+  },
+  "1JN": {
+    "titles": {
+      "english": "1 John"
+    },
+    "order": {
+      "global": 23,
+      "section": {
+        "title": "Epistles",
+        "sequence": 18
+      }
+    }
+  },
+  "2JN": {
+    "titles": {
+      "english": "2 John"
+    },
+    "order": {
+      "global": 24,
+      "section": {
+        "title": "Epistles",
+        "sequence": 19
+      }
+    }
+  },
+  "3JN": {
+    "titles": {
+      "english": "3 John"
+    },
+    "order": {
+      "global": 25,
+      "section": {
+        "title": "Epistles",
+        "sequence": 20
+      }
+    }
+  },
+  "JUD": {
+    "titles": {
+      "english": "Jude"
+    },
+    "order": {
+      "global": 26,
+      "section": {
+        "title": "Epistles",
+        "sequence": 21
+      }
+    }
+  },
+  "REV": {
+    "titles": {
+      "english": "Revelation"
+    },
+    "order": {
+      "global": 27,
+      "section": {
+        "title": "Apocalypse",
+        "sequence": 22
+      }
+    }
+  }
+}
