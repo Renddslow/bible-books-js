@@ -1,6 +1,36 @@
-# Bible Books
+# Bible Books • [![npm version](https://badge.fury.io/js/bible-books.svg)](https://badge.fury.io/js/bible-books)
 
 Access the books of the Bible in the traditional Hebrew and Protestant canon with a few handy methods.
+
+## Getting Started
+
+```
+yarn install bible-books
+```
+
+## API
+
+### get(input)
+Return an individual book of the Bible based on a search input.
+
+#### input
+Type: `string`
+
+The string can be the 3 character ID of the book, or the full title of the book from any canon.
+
+### getAll(section, orderBy)
+Return a list of books from a certain set of books and order them.
+
+#### section
+Type: `string` - `OT | NT | *`
+
+#### orderBy
+Type: `string` - `hebrew | alpha`
+
+Order a list of books by a given canon order or alphabetically. Defaults to Protestant canon. 
+
+If ordered according to the Hebrew canon, the OT will be returned first with the Hebrew canon, and the NT (if requested) will be returned after it in traditional protestant order.
+Alphabetically does not respect the section.  
 
 ## Structure
 
@@ -22,10 +52,10 @@ This object is likely to expand in higher versions, with new additions being doc
 
 | Property | Type | Description | Optional |
 | --- | --- | --- | --- |
-| `english` | String | The common English title of the book | `false` |
-| `hebrew` | Object | | `true` |
-| `hebrew.transliteration` | String | The transliteration of the original Hebrew title of the book | `false` |
-| `hebrew.meaning` | String | The translation of the original Hebrew title of the book | `true` |
+| `english` | `string` | The common English title of the book | `false` |
+| `hebrew` | `Object` | | `true` |
+| `hebrew.transliteration` | `string` | The transliteration of the original Hebrew title of the book | `false` |
+| `hebrew.meaning` | `string` | The translation of the original Hebrew title of the book | `true` |
 
 ### Order Objects 
 
@@ -33,9 +63,13 @@ Order objects are assigned to a top-level order object on a book by a sortable k
 
 | Property | Type | Description | Optional |
 | --- | --- | --- | --- |
-| `global` | Number | A number indicating the order the book occurs in across the whole testament. | `false` |
-| `section` | Object | | `false` |
-| `section.title` | String | The traditional title of the section of the Bible according to the given canon | `false` |
-| `section.sequence` | Number | The order in which the book appears in the given section of the given canon | `false` |
-| `section.subtitle` | String | An optional subtitle of the subsection to which the book belongs in the given canon | `true` |
-| `section.joinedWith` | String | Certain books that are two books in one canon are considered a single book in other canons. This field references the ID of the book for which it shares a book in the given canon | `true` |
+| `global` | `number` | A number indicating the order the book occurs in across the whole testament. | `false` |
+| `section` | `Object` | | `false` |
+| `section.title` | `string` | The traditional title of the section of the Bible according to the given canon | `false` |
+| `section.sequence` | `number` | The order in which the book appears in the given section of the given canon | `false` |
+| `section.subtitle` | `string` | An optional subtitle of the subsection to which the book belongs in the given canon | `true` |
+| `section.joinedWith` | `string` | Certain books that are two books in one canon are considered a single book in other canons. This field references the ID of the book for which it shares a book in the given canon | `true` |
+
+## License
+
+[VOL](http://veryopenlicense.com/) • Made by me, but use how you want.

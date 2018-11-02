@@ -1,6 +1,6 @@
 {
   "name": "bible-books",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bible Books contains the full list of books of the Bible and methods to get them.",
   "main": "index.js",
   "license": "SEE LICENSE IN LICENSE.md",
